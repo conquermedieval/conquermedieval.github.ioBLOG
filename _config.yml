@@ -1,0 +1,29 @@
+url: https://conquermedieval.github.io
+title: conquermedieval
+description: Blog em desenvolvimento.
+keywords: nilsonlinux, jekyll, jekyll-theme-docs
+image: /assets/img/social.png
+email: nilsonlinux@gmail.com
+timezone: America/Sao_Paulo
+branch: master
+lang: pt_BR
+author:
+  name: conquermedieval
+  email: nilsonlinux@gmail.com
+twitter:
+  site: null
+  creator: nilsonlinux
+google:
+  site-verification: 7YAsvH47ykUFB4n7rYiqT6A9mi0WF5y_DjzRtUco4IY
+  analytics: UA-122784671-1 # <--google Nilsonlinux-id-Substitua-->
+  cse-cx: 005886127669980887444:4bc5lc9r79e
+  api-key: AIzaSyA3zsF5TE9uKWxRbkQxFLWLvw7-i3ER214
+disqus_shortname: nilsonlinux
+defaults:
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
+      permalink: /:categories/:title
+

@@ -1,0 +1,10 @@
+- title: Notícias
+  description: Tudo sobre linux.
+  url: noticias
+  icon: linux
+
+- title: Cursos gratuitos
+  description: PDF, Video Aulas e muito mais.
+  url: gratis
+  icon: book
+  
