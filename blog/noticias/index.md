@@ -19,6 +19,4 @@ title: Nilsonlinux Postagens
     <li><time>{{ post.date | date:"%d-%m" }}</time> <a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
   </ul>
-
-  Por <a href="{{ site.baseurl }}/tags" class="menu">Tags</a>.
 </section>
